@@ -10,7 +10,7 @@ I'm an MCA student who enjoys turning ideas into interactive, responsive and pra
 
 🎓 MCA @ Pimpri Chinchwad University
 💻 Exploring Frontend & Web Development
-⚡ Experimenting with **JavaScript and interactive interfaces
+⚡ Experimenting with JavaScript and interactive interfaces
 🎨 Interested in clean UI, responsive design and user experience
 🛠️ Learning by building real projects and solving real problems
 🚀 Growing my skills one project at a time.
