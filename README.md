@@ -108,5 +108,5 @@ Learn → Build → Experiment → Improve
 ------------------------------------------------------------------------------------------------------------
 🌐 Connect With Me
 
-📧 Email: sgurnani19082003@gmail.com
+📧 Email: yash.19gurnani@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/yash-gurnani-a46017281/
